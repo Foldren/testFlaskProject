@@ -38,21 +38,21 @@ def slash():
             </br>\
             За текущую неделю</br>\
             Принято: {conversions_cw[0]}</br>\
-            В обработке: {conversions_cw[0]}</br>\
-            Отклонено: {conversions_cw[0]}</br>\
-            Всего: {conversions_cw[0]}</br>\
+            В обработке: {conversions_cw[1]}</br>\
+            Отклонено: {conversions_cw[2]}</br>\
+            Всего: {conversions_cw[3]}</br>\
             </br>\
             За прошлую неделю</br>\
             Принято: {conversions_pw[0]}</br>\
-            В обработке: {conversions_pw[0]}</br>\
-            Отклонено: {conversions_pw[0]}</br>\
-            Всего: {conversions_pw[0]}</br>\
+            В обработке: {conversions_pw[1]}</br>\
+            Отклонено: {conversions_pw[2]}</br>\
+            Всего: {conversions_pw[3]}</br>\
             </br>\
             За текущий месяц</br>\
             Принято: {conversions_cm[0]}</br>\
-            В обработке: {conversions_cm[0]}</br>\
-            Отклонено: {conversions_cm[0]}</br>\
-            Всего: {conversions_cm[0]}</br>\
+            В обработке: {conversions_cm[1]}</br>\
+            Отклонено: {conversions_cm[2]}</br>\
+            Всего: {conversions_cm[3]}</br>\
             </br>'
 
 
